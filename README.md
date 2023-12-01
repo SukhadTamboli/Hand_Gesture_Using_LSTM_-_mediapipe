@@ -1,1 +1,2 @@
-# Hand_Gesture_Using_LSTM_-_mediapipe
+# SignLanguageDetectionUsingML
+SignLanguageDetectionUsingML
